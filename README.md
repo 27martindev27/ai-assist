@@ -1,1 +1,1 @@
-# ai-assisy
+# ai-assist
